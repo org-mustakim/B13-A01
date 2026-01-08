@@ -193,3 +193,90 @@
     width: 60px;
     height: 60px;
 }
+
+/* Second-Brain */
+#second-brain{
+    margin-left: 120px;
+    margin-bottom: 120px;
+    display: flex;
+    gap: 60px;
+}
+#the-solution{
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 500px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+.second-brain-content h2{
+    font-size: 48px;
+    font-weight: 600px;
+    color: #001931;
+}
+#second-brain-paragraph{
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 40px;
+    color: #627382;
+}
+.check-list{
+    display: flex;
+    gap: 6px;
+    margin-bottom: 16px;
+}
+
+/* ready-to-think-more-clearly */
+#ready-to-think-more-clearly{
+    background-color: #F7F6F2;
+    border: 1px solid red;
+    border-radius: 12px;
+    margin-left: 120px;
+    margin-bottom: 120px;
+    width: 1360px;
+    height: 385px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ready-to-think-more-clearly h2{
+    font-size: 40px;
+    font-weight: 600px;
+    color: #001931;
+    text-align: center;
+    margin-bottom: 16px;
+}
+#ready-to-think-more-clearly p{
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+#ready-to-think-more-clearly button{
+    margin-bottom: 16px;
+    text-align: center;
+}
+#foot-btn .btn{
+
+    /* text-align: center; */
+
+}
+footer{
+    width: 1600px;
+    height: 348px;
+    background-color: #001931;
+    align-items: center;
+    justify-items: center;
+}
+#footer-main{
+    display: flex;
+    width: 1360px;
+    height: 64px;
+    justify-content: space-between;
+    margin-top: 120px;
+}
+#foot-icons{
+    padding-right: 107px;
+}
