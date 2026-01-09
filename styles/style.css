@@ -201,6 +201,10 @@
     display: flex;
     gap: 60px;
 }
+second-brain .image{
+    width: 600px;
+    height: 600px;
+}
 #the-solution{
     line-height: 20px;
     font-size: 16px;
