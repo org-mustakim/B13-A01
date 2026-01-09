@@ -199,9 +199,6 @@
 /* Second-Brain */
 #second-brain{
     /* border:  1px solid red; */
-    /* padding-left: 120px; */
-    /* margin-left: 120px; */
-    /* margin-bottom: 120px; */
     height: 840px;
     width: 1600px;
     display: flex;
@@ -216,7 +213,6 @@
 }
 .image{
     /* border: 1px solid red; */
-    /* margin-top: 120px; */
     padding-left: 120px;
     border-radius: 12px;
     width: 600px;
@@ -224,12 +220,10 @@
     background-image: url(../images/knowledge.png);
 }
  .second-brain-content{
+     /* border:  1px solid red; */
     width: 1000px;
     height: 379px;
-    /* border:  1px solid red; */
     margin-top: 101.5px;
-    /* padding-top: 101.5px; */
-    /* padding-bottom: 101.5px; */
     flex-wrap: wrap;
  }
 #the-solution{
@@ -264,6 +258,7 @@
 }
 
 /* ready-to-think-more-clearly */
+
 #ready-to-think-more-clearly{
     background-color: #F7F6F2;
     /* border: 1px solid red; */
@@ -295,10 +290,8 @@
     margin-bottom: 16px;
     text-align: center;
 }
-footer section hr{
-    width: 1360px;
-    opacity: 0.2;
-}
+
+/* footer-section */
 
 #foot-btn{
 
@@ -333,4 +326,23 @@ footer{
     /* border: 1px solid red; */
     margin-top: 30px;
     text-align: center;  
+}
+#foot-icons a{
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-right: 16px;
+}
+#foot-icons p{
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+hr{
+    color: #fafafa9a;
+}
+.foot-text{
+    color: #FAFAFA;
+    font-size: 16px;
+    line-height: 24px;
 }
