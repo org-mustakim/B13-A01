@@ -198,8 +198,8 @@
 
 /* Second-Brain */
 #second-brain{
-    border:  1px solid red;
-    padding-left: 120px;
+    /* border:  1px solid red; */
+    /* padding-left: 120px; */
     /* margin-left: 120px; */
     /* margin-bottom: 120px; */
     height: 840px;
@@ -207,18 +207,29 @@
     display: flex;
     gap: 60px;
 }
-second-brain .image{
-    margin-top: 120px;
+.brain{
+    width: 1360px;
+    height: 600px;
+    display: flex;
+    gap: 60px;
+    padding: 120px;
+}
+.image{
+    /* border: 1px solid red; */
+    /* margin-top: 120px; */
+    padding-left: 120px;
+    border-radius: 12px;
     width: 600px;
     height: 600px;
+    background-image: url(../images/knowledge.png);
 }
  .second-brain-content{
-    width: 1600px;
+    width: 1000px;
     height: 379px;
-    border:  1px solid red;
+    /* border:  1px solid red; */
     margin-top: 101.5px;
     /* padding-top: 101.5px; */
-    padding-bottom: 101.5px;
+    /* padding-bottom: 101.5px; */
     flex-wrap: wrap;
  }
 #the-solution{
