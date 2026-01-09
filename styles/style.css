@@ -35,7 +35,7 @@
     margin-left: 120px;
     margin-right: 345px;
 }
-.menue{
+.menu{
     margin-right: 300px;
 }
 .menue a{
@@ -350,7 +350,7 @@ hr{
     line-height: 24px;
 }
 .foot-logo{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 139px;
     width: 60px;
 }
