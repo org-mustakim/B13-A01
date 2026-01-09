@@ -124,14 +124,14 @@
 .batn{
     width: 198px;
     height: 52px;
-    background-color: none;
-    border: 1px solid #FFFFFF;
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid #ffffffa9;
     border-radius: 4px;
 }
 .batn a{
     text-decoration: none;
     font-size: 16px;
-    color: #000000;
+    color: #ffffff;
 }
 .batn:hover{
     cursor: pointer;
@@ -351,6 +351,6 @@ hr{
 }
 #foot-logo{
     border: 1px solid red;
-    /* background-image: url(../images/logo-footer.png); */
-    background-position: top center;
+    height: 139px;
+    width: 60px;
 }
